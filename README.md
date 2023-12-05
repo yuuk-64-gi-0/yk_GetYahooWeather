@@ -1,5 +1,5 @@
 # yk_GetYahooWeather
-<span style="color:red;">__These programs run only Japanese environment.__</style>
+<span style="color:red;">__These programs run only Japanese environment.__</span>
 
 ## Abstract
 [Yahoo!天気・災害](https://weather.yahoo.co.jp/weather/)から発信される情報から、任意の地域の3時間ごとの天気情報を取得し、pythonのTkinter Windowに表示させます。
